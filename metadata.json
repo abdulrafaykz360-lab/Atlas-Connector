@@ -1,0 +1,6 @@
+{
+  "name": "Atlas Connector",
+  "description": "Standalone Windows desktop discovery engine and local GoSOM manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
